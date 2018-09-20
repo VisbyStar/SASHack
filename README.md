@@ -10,6 +10,6 @@ Brainstorming what ideas can be used
 - [ ] User Case: Get picture of popular things to do at location to get inspired
 - [ ] User Case: Get a sound book from the location
 - [ ] User Case: Spotify music related to locations
-- [developer.spotify.com/)] (https://developer.spotify.com/)
+- [developer.spotify.com/] (https://developer.spotify.com/)
 - [ ] User Case create dynamic playlists in Spotify based on destination and interest e.g. running Maraton in New York yu get New York New York ;-) or [playlist related 100 Best Songs About NY Playlist](https://open.spotify.com/playlist/2HcotrasaNiSXC0KGqEqxx)  
 - [ ] User Case: Find Spotify friends that have destination related music....
